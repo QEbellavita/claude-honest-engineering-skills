@@ -1,4 +1,6 @@
-# Honest engineering skills for Claude Code
+<p align="center">
+  <img src="./assets/header.svg" alt="honest engineering skills — nine skills that make a coding agent check its work" width="100%">
+</p>
 
 Nine skills that make an AI coding agent check its work instead of telling you what you
 want to hear.
